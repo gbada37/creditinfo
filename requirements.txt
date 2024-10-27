@@ -4,3 +4,4 @@ joblib
 Pillow
 scikit-learn
 xgboost
+pyarrow
